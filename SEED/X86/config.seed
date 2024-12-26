@@ -107,6 +107,7 @@ CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-zerotier=y
 CONFIG_PACKAGE_zerotier=y
 CONFIG_PACKAGE_luci-app-snmpd=y
+CONFIG_PACKAGE_luci-app-mosdns=y
 
 ### THEME ###
 CONFIG_PACKAGE_luci-theme-argon=y
